@@ -136,11 +136,11 @@ footer {
   }
   .col-content h1 {
     font-size: 25px;
-    padding: 20px 5% 0px 5%;
+    padding: 20px 40px 0px 80px !important;
   }
   .col-content p {
     font-size: 15px;
-    padding: 20px 5% 0px 5%;
+    padding: 20px 40px 0px 80px !important;
   }
   .footer i {
     margin-top: 40px !important;
